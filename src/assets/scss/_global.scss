@@ -1,0 +1,28 @@
+// Here I add some custom style
+// for example to override Bootstrap rules or add new ones
+
+body {
+  background-color: #F0F8FF;
+}
+
+h1 {
+  color: $my-awesome-red;
+  font-weight: bolder;
+}
+
+
+h2 {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+ul {
+  li {
+    h2 {
+      a {
+        font-size: 26px;
+      }
+      margin-bottom: 6px;
+    }
+  }
+}
