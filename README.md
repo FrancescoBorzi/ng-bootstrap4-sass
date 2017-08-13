@@ -1,5 +1,7 @@
 # NgBootstrap4Sass
 
+Showing [how to use Angular + Bootstrap 4 with SASS](https://stackoverflow.com/questions/45660802/how-to-use-bootstrap-4-with-sass-in-angular/45660803#45660803).
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
 
 ## Development server
